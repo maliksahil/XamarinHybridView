@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6CD1E6E7-2796-4E17-B169-86CBDCA9A4AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HybridView/HybridViewPage.xaml.cs">
+    <Files>
+      <File FileName="HybridView/App.xaml" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="47" />
+      <File FileName="iOS/AppDelegate.cs" Line="17" Column="27" />
+      <File FileName="HybridView/App.xaml.cs" Line="7" Column="10" />
+      <File FileName="HybridView/HybridWebView.cs" Line="6" Column="28" />
+      <File FileName="HybridView/HybridViewPage.xaml.cs" Line="2" Column="1" />
+      <File FileName="iOS/Content/index.html" Line="9" Column="47" />
+      <File FileName="iOS/HybridWebViewRenderer.cs" Line="14" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/HybridViewPage.xaml.cs" relfile="HybridView/HybridViewPage.xaml.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HybridView.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EDD5EDEB-7B1E-442E-B29A-8F31A0CE9CA4" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

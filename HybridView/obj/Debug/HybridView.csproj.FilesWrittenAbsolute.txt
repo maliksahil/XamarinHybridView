@@ -1,0 +1,12 @@
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/obj/Debug/HybridView.App.xaml
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/obj/Debug/HybridView.HybridViewPage.xaml
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/obj/Debug/HybridView.App.xaml.g.cs
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/obj/Debug/HybridView.HybridViewPage.xaml.g.cs
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/bin/Debug/HybridView.dll.mdb
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/bin/Debug/HybridView.dll
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/obj/Debug/HybridView.dll
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/obj/Debug/HybridView.dll.mdb
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/bin/Debug/Xamarin.Forms.Core.dll
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/sahilmalik/Documents/Developer/pluralsight/HybridView/HybridView/HybridView/bin/Debug/Xamarin.Forms.Xaml.dll
