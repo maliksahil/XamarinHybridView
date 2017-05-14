@@ -1,0 +1,17 @@
+﻿<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+</head>
+<body>
+    <button type="button" onclick="invokeXamarinAction('findPrimesNative').then(function (result) { log(result) });">Find Primes 100% native</button>
+    <br />
+    <p id="timeTaken"></p>
+    <script type="text/javascript">
+        function log(str) {
+            document.getElementById('timeTaken').innerText = str;
+        }
+    </script>
+    <script type="text/javascript" src="polyfills.bundle.js"></script>
+    <script type="text/javascript" src="vendor.bundle.js"></script>
+</body>
+</html>

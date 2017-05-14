@@ -1,0 +1,28 @@
+﻿<html>
+<body>
+    <button type="button" onclick="log(invokeCSharpAction('findPrimesNative'));">Find Primes 100% native</button>
+    <br />
+    <button type="button" onclick="calcPrimes();">Find Primes in Hybrid Mode</button>
+    <br />
+    <p id="timeTaken"></p>
+    <script type="text/javascript">
+        function log(str) {
+            document.getElementById('timeTaken').innerText = str;
+        }
+
+        function calcPrimes(data) {
+            // var max = 10000000;
+            var max = 10000;
+            var numPrimes = 0;
+            var t0 = performance.now();
+            for (i = 2; i <= max; ++i) {
+                if (invokeCSharpAction('IsPrime,' + 3) === 'True') {
+                    numPrimes++;
+                }
+            }
+            var t1 = performance.now();
+            log(t1 - t0);
+        }
+    </script>
+</body>
+</html>
